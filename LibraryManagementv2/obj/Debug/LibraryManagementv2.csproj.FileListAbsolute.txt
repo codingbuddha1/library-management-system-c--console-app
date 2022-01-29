@@ -1,0 +1,8 @@
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\obj\Debug\LibraryManagementv2.csproj.AssemblyReference.cache
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\obj\Debug\LibraryManagementv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\obj\Debug\LibraryManagementv2.csproj.CoreCompileInputs.cache
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\bin\Debug\LibraryManagementv2.exe.config
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\bin\Debug\LibraryManagementv2.exe
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\bin\Debug\LibraryManagementv2.pdb
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\obj\Debug\LibraryManagementv2.exe
+C:\Users\Kishan Jani\Desktop\libManager\LibraryManagementv2\LibraryManagementv2\obj\Debug\LibraryManagementv2.pdb
